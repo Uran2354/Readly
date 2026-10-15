@@ -4,7 +4,7 @@
 на актуальных версиях Android Studio и Gradle. UI — целиком **Jetpack Compose**
 (Material 3), исходники — в «плоском одном пакете» `com.example.readly`,
 векторные иконки — в `res/drawable` (`R.drawable.ic_*`), строковые литералы
-русские. [readly.zip](https://github.com/user-attachments/files/33509101/readly.zip)
+русские.
 
 ## Возможности
 
@@ -61,6 +61,7 @@
 
 ## 2. Сборка
 
+[readly.zip](https://github.com/user-attachments/files/33509142/readly.zip)
 > **Про архив:** `readly.zip` распаковывается **в папку `Readly/`** — внутри
 > сразу лежат `settings.gradle.kts`, `app/`, `gradle/` и т.д. Открывайте
 > в Android Studio именно эту папку (File → Open → `Readly`).

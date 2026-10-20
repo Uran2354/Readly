@@ -80,6 +80,8 @@
 
 ## 2. Сборка
 
+[readly.zip](https://github.com/user-attachments/files/33740067/readly.zip)
+
 > **Про архив:** `readly.zip` распаковывается **в папку `Readly/`** — внутри
 > сразу лежат `settings.gradle.kts`, `app/`, `gradle/` и т.д. Открывайте
 > в Android Studio именно эту папку (File → Open → `Readly`).

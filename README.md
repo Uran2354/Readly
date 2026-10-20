@@ -1,4 +1,4 @@
-# Readly (Android) — офлайновая читалка в духе ReadEra
+# Readly (Android) — офлайновая читалка в духе ReadEra (без рекламы и сбора данных)
 
 Полноценный Gradle-проект Android Studio: открывается и собирается «как есть»
 на актуальных версиях Android Studio и Gradle. UI — целиком **Jetpack Compose**
